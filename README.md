@@ -1,6 +1,7 @@
 # ansible-vault
 
-Role Ansible pour la gestion des secrets avec Ansible Vault (Exercice 35).
+Role Ansible pour la gestion des secrets avec Ansible Vault (Exercice 35).  
+Derniere mise a jour : parties 4 et 5 (affichage securise, fichier .credentials).
 
 ## Description
 
