@@ -1,0 +1,25 @@
+---
+galaxy_info:
+  author: ton_pseudo_github
+  description: Role Ansible pour gerer les secrets avec Ansible Vault (utilisateur applicatif, fichier de config, credentials).
+  license: MIT
+
+  min_ansible_version: "2.9"
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+        - jammy
+    - name: EL
+      versions:
+        - "8"
+        - "9"
+
+  galaxy_tags:
+    - vault
+    - security
+    - secrets
+    - credentials
+
+dependencies: []
